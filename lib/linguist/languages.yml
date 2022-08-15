@@ -4905,6 +4905,16 @@ PostScript:
   - postscr
   ace_mode: text
   language_id: 291
+Potigol:
+  type: programming
+  ace_mode: text
+  wrap: true
+  extensions:
+  - ".poti"
+  interpreters:
+  - "potigol"
+  color: "#FF7E17"
+  tm_scope: source.potigol
 PowerBuilder:
   type: programming
   color: "#8f0f8d"
